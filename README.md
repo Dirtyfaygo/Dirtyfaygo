@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dirtyfaygo
+- 👋 Hi, I’m @Dirtyfaygo 
 - 👀 I’m interested in ..json/pyhton
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...just a student
+- 💞️ I’m looking to collaborate on ...any learning facts
 - 📫 How to reach me ..mrhumble2tymes@gmail.com
 
 <!---
